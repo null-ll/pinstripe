@@ -1,0 +1,6 @@
+(sym_lib_table
+  (lib (name pinstripe-rescue)(type Legacy)(uri ${KIPRJMOD}/pinstripe-rescue.lib)(options "")(descr ""))
+  (lib (name pinstripe)(type Legacy)(uri ${KIPRJMOD}/pinstripe.lib)(options "")(descr ""))
+  (lib (name keyboard-rescue)(type Legacy)(uri ${KIPRJMOD}/keyboard-rescue.lib)(options "")(descr ""))
+  (lib (name SSD1306-128x64_OLED)(type Legacy)(uri ${KIPRJMOD}/SSD1306-128x64_OLED.lib)(options "")(descr ""))
+)
