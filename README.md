@@ -66,3 +66,4 @@ For custom keymaps, add the keycode KC_SETTIME to a key (preferably not on the b
 ![Back](https://i.imgur.com/iYaOw6d.jpg)
 ![OLED](https://i.imgur.com/Nr2kXRJ.jpg)
 ![Pinstripe](https://i.imgur.com/yUHyV73.jpg)
+![Pinstripe](https://i.imgur.com/9MpTOuu.jpg)
