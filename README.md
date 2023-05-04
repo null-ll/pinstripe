@@ -1,8 +1,11 @@
 # Pinstripe
 
 ![Pinstripe](https://i.imgur.com/yUHyV73.jpg)
+***Not everything has been implemented/tested fully. Build at your own risk!***
 
 Through-hole 60% keyboard with arrow keys, a rotary encoder, a SSD1306 OLED display, and a DS1307 I2C RTC module.
+
+
 
 
 ### Supported Layouts
