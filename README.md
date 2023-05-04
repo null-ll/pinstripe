@@ -45,6 +45,8 @@ Through-hole 60% keyboard with arrow keys, a rotary encoder, a SSD1306 OLED disp
 |         | Pinstripe PCB          | 1
 |         | Bottom Plate           | 1
 |         | Switch plate           | 1
+|         | Acrylic guard          | 1
+|         | Acrylic OLED cover     | 1 
 
 ### Build Guide
 WIP
