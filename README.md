@@ -5,14 +5,17 @@
 
 Through-hole 60% keyboard with arrow keys, a rotary encoder, a SSD1306 OLED display, and a DS1307 I2C RTC module.
 
+OLED displays 24-hour time and [bongo cat animation](https://github.com/nwii/oledbongocat) in default keymap. 
 
 
-
-### Supported Layouts
+## Supported Layouts
 ![Layout](https://i.imgur.com/j5zc8Iz.png)
 > View on [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/76d009fbf60b83c250d901e28f7cc0d1)
 
-### BOM
+### Default Layout
+> View on [Keyboard Layout Editor](http://www.keyboard-layout-editor.com/#/gists/a1eb12ef4bd2b7b5ea2a67abed068752)
+
+## BOM
 | Ref     | Component              | Qty | Notes |
 | ---     | ---------              | --- | ----- |
 | C1, C2  | 22pF Capacitor         | 2 
@@ -50,11 +53,16 @@ Through-hole 60% keyboard with arrow keys, a rotary encoder, a SSD1306 OLED disp
 |         | Acrylic OLED cover     | 1 
 |         | Rubber Feet            | 4
 
-### Build Guide
+## Build Guide
 WIP
 
-### Images
-![Front](https://i.imgur.com/zxUP374.jpg)
+## Setting the Time
+In the default keymap, pressing Fn+T (custom keycode KC_SETTIME) will put the keyboard into time setting mode. Enter the time in the form HHMMSS (hour, minute, second) in this mode to set the RTC time. This time will be stored in the RTC module, even when the keyboard is powered off, for as long as the battery lasts.
+
+For custom keymaps, add the keycode KC_SETTIME to a key (preferably not on the base layer).
+
+## Images
+![Front](https://i.imgur.com/CiZuixS.jpg)
 ![Back](https://i.imgur.com/iYaOw6d.jpg)
 ![OLED](https://i.imgur.com/Nr2kXRJ.jpg)
 ![Full](https://i.imgur.com/zxUP374.jpg)
