@@ -37,16 +37,18 @@ Through-hole 60% keyboard with arrow keys, a rotary encoder, a SSD1306 OLED disp
 | DS1307  | Adafruit DS1307 Module | 1
 |         | Knob                   | 1
 |         | CR1220 Battery         | 1 | Battery for RTC
-|         | M2 6mm standoff        | 10
-|         | M2 10+3mm standoff     | 5
-|         | M2 6mm screw           | 5
-|         | M2 4mm screw           | 15
-|         | Rubber Feet            | 4
+|         | M2 10+3mm standoff     | 5 | For mounting the acrylic guard
+|         | M2 6mm screw           | 5 | For mounting the acrylic guard
+|         | M2 6mm standoff        | 10 | Holds the PCB and bottom plate together
+|         | M2 4mm screw           | 17 | Holds the PCB and bottom plate together
+|         | M2 Nut                 | 4 | For mounting the OLED cover
+|         | M2 7mm screw           | 4 | For mounting the OLED cover
 |         | Pinstripe PCB          | 1
-|         | Bottom Plate           | 1
+|         | Bottom plate           | 1
 |         | Switch plate           | 1
 |         | Acrylic guard          | 1
 |         | Acrylic OLED cover     | 1 
+|         | Rubber Feet            | 4
 
 ### Build Guide
 WIP
