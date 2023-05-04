@@ -1,6 +1,6 @@
 # Pinstripe
 
-![Pinstripe](https://i.imgur.com/yUHyV73.jpg)
+![Full](https://i.imgur.com/zxUP374.jpg)
 ***Not everything has been implemented/tested fully. Build at your own risk!***
 
 Through-hole 60% keyboard with arrow keys, a rotary encoder, a SSD1306 OLED display, and a DS1307 I2C RTC module.
@@ -65,4 +65,4 @@ For custom keymaps, add the keycode KC_SETTIME to a key (preferably not on the b
 ![Front](https://i.imgur.com/CiZuixS.jpg)
 ![Back](https://i.imgur.com/iYaOw6d.jpg)
 ![OLED](https://i.imgur.com/Nr2kXRJ.jpg)
-![Full](https://i.imgur.com/zxUP374.jpg)
+![Pinstripe](https://i.imgur.com/yUHyV73.jpg)
