@@ -49,8 +49,8 @@ OLED displays 24-hour time and [bongo cat animation](https://github.com/nwii/ole
 |         | Pinstripe PCB          | 1
 |         | Bottom plate           | 1
 |         | Switch plate           | 1
-|         | Acrylic guard          | 1
-|         | Acrylic OLED cover     | 1 
+|         | Acrylic guard          | 1 
+|         | Acrylic OLED cover     | 1 | I used dark gray translucent acrylic which masks the OLED module's PCB pretty well.
 |         | Rubber Feet            | 4
 
 ## Build Guide
